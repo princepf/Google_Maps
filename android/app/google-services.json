@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "273092191833",
+    "project_id": "map-52b74",
+    "storage_bucket": "map-52b74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273092191833:android:9f24a2b5ba2671a1577348",
+        "android_client_info": {
+          "package_name": "com.prince.gogglemaps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273092191833-tl7dfnebcfer3kh2c5t1bbh6iar8j61q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAyvmb9_I-Nf0ZzvOtGoyP8BSsE7YEAk8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273092191833-tl7dfnebcfer3kh2c5t1bbh6iar8j61q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273092191833-iddt1ov0s4293f73dh5navq72cs7ccea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.prince.gogglemaps"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
